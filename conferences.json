@@ -1,14 +1,14 @@
 [
   {
-    "name": "IEEE EI² 2025",
-    "sub": "security operation",
-    "Location": "Jilin, China",
+    "name": "RTSS 2025 BP",
+    "sub": "cyber physical systems",
+    "Location": "Boston, MA, United States",
     "Start Date": "",
     "End Date": "",
     "Abstract Deadline": "",
-    "Submission Deadline": "Sep 25 2025",
+    "Submission Deadline": "Oct 08 2025",
     "Notification": "",
-    "link": "https://www.ei2-conf.org/"
+    "link": ""
   },
   {
     "name": "ISEEE 2025",
@@ -20,17 +20,6 @@
     "Submission Deadline": "Sep 10 2025",
     "Notification": "",
     "link": "https://www.iseee.ugal.ro/2025/index.php"
-  },
-  {
-    "name": "ANTIC-2025",
-    "sub": "advanced network technologies",
-    "Location": "Gwalior, India",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 30 2025",
-    "Notification": "",
-    "link": "https://antic.co.in/"
   },
   {
     "name": "ICACS’26",
@@ -50,31 +39,31 @@
     "Start Date": "",
     "End Date": "",
     "Abstract Deadline": "",
-    "Submission Deadline": "Sep 30 2025",
-    "Notification": "Oct 15 2025",
+    "Submission Deadline": "",
+    "Notification": "",
     "link": "https://www.hnicem.org/"
   },
   {
-    "name": "TPEC 2026",
-    "sub": "integrated circuits and cybersecurity",
-    "Location": "College Station, TX, United States",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "Nov 01 2025",
-    "Submission Deadline": "Nov 01 2025",
-    "Notification": "",
-    "link": "https://tpec.engr.tamu.edu/"
-  },
-  {
-    "name": "WISP2025",
-    "sub": "cybersecurity",
-    "Location": "Nashville, TN, United States",
+    "name": "LACAP 2026",
+    "sub": "antennas",
+    "Location": "Natal, Brazil",
     "Start Date": "",
     "End Date": "",
     "Abstract Deadline": "Sep 30 2025",
     "Submission Deadline": "Sep 30 2025",
     "Notification": "",
-    "link": "https://easychair.org/conferences/?conf=wisp2025"
+    "link": "https://lacap2026.org/"
+  },
+  {
+    "name": "SME NAMRC 54",
+    "sub": "cyber physical systems",
+    "Location": "State College, PA, United States",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
+    "link": "https://namrc.sme.org/"
   },
   {
     "name": "SATNAC 2025",
@@ -89,7 +78,7 @@
   },
   {
     "name": "IC2NC",
-    "sub": "network",
+    "sub": "networks",
     "Location": "Erode, India",
     "Start Date": "",
     "End Date": "",
@@ -97,17 +86,6 @@
     "Submission Deadline": "Oct 07 2025",
     "Notification": "",
     "link": "https://ic2nc.com/"
-  },
-  {
-    "name": "YARN 2026",
-    "sub": "network",
-    "Location": "Göttingen, Germany",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 15 2025",
-    "Notification": "",
-    "link": "http://youngafricanists.wordpress.com"
   },
   {
     "name": "ICCCS2026",
@@ -132,17 +110,6 @@
     "link": "https://rev-ecit.vn/vi"
   },
   {
-    "name": "JCUN 2025",
-    "sub": "cyber security",
-    "Location": "Bogotá, Colombia",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "Sep 16 2025",
-    "Submission Deadline": "Oct 20 2025",
-    "Notification": "",
-    "link": "https://jcunal.com/"
-  },
-  {
     "name": "ICET 2026",
     "sub": "communication",
     "Location": "Chengdu, China",
@@ -165,17 +132,6 @@
     "link": "https://www.icsip.org/"
   },
   {
-    "name": "Maitreyee25_Security and Cryptography",
-    "sub": "security",
-    "Location": "",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 07 2025",
-    "Notification": "",
-    "link": "https://research.ibm.com/events/maitreyee-2025"
-  },
-  {
     "name": "WWRF54-B6G",
     "sub": "6g",
     "Location": "London, UK",
@@ -187,36 +143,14 @@
     "link": "https://wwrf-meetings.com/"
   },
   {
-    "name": "IC3IT",
-    "sub": "cybersecurity privacy",
-    "Location": "Hammamet, Tunisia",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "Nov 15 2025",
-    "Submission Deadline": "Nov 15 2025",
-    "Notification": "",
-    "link": "http://www.ic3it.com"
-  },
-  {
-    "name": "SSR2025",
-    "sub": "cybersecurity",
-    "Location": "Passau, Germany",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Oct 05 2025",
-    "Notification": "",
-    "link": "https://www.uni-passau.de/ssr2025"
-  },
-  {
     "name": "MobiSec 2025",
-    "sub": "mobile security",
+    "sub": "iot security",
     "Location": "Sapporo, Japan",
     "Start Date": "",
     "End Date": "",
     "Abstract Deadline": "",
-    "Submission Deadline": "Sep 19 2025",
-    "Notification": "Oct 20 2025",
+    "Submission Deadline": "",
+    "Notification": "",
     "link": "https://www.manuscriptlink.com/society/kiisc/conference/mobisec2025"
   },
   {
@@ -234,11 +168,11 @@
     "name": "ACM MobiSys",
     "sub": "Wireless & Communication",
     "Location": "Cambridge, UK",
-    "Start Date": "Jun 21 2026",
-    "End Date": "Jun 25 2026",
-    "Abstract Deadline": "Nov 28 2025",
-    "Submission Deadline": "Dec 05 2025",
-    "Notification": "Mar 02 2026",
+    "Start Date": "",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "",
+    "Notification": "",
     "link": "https://www.sigmobile.org/mobisys/2026/"
   },
   {
@@ -301,11 +235,11 @@
     "sub": "Computer networks",
     "Location": "Yogyakarta, Indonesia",
     "Start Date": "",
-    "End Date": "Nov 30 2025",
+    "End Date": "",
     "Abstract Deadline": "",
     "Submission Deadline": "Sep 20 2025",
     "Notification": "",
-    "link": "https://icsintesa.universitasmulia.ac.id/"
+    "link": "https://icsintesa.org/"
   },
   {
     "name": "2026 1st ISIBER",
@@ -405,17 +339,6 @@
     "Submission Deadline": "Sep 15 2025",
     "Notification": "",
     "link": "https://www.apmc2025.org/"
-  },
-  {
-    "name": "APSIPA-ASC 2026",
-    "sub": "Signal processing",
-    "Location": "Hanoi, Vietnam",
-    "Start Date": "",
-    "End Date": "Nov 13 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Jun 01 2026",
-    "Notification": "",
-    "link": ""
   },
   {
     "name": "APWiMob 2025",
@@ -647,6 +570,17 @@
     "Submission Deadline": "Oct 15 2025",
     "Notification": "",
     "link": "https://voyager.ce.fit.ac.jp/conf/eidwt/2026/"
+  },
+  {
+    "name": "ETECOM 2025",
+    "sub": "Computer networks",
+    "Location": "Riffa, Bahrain",
+    "Start Date": "",
+    "End Date": "Oct 30 2025",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 07 2025",
+    "Notification": "",
+    "link": "https://www.ieee-etecom.org/"
   },
   {
     "name": "EUSAR 2026",
@@ -1111,6 +1045,17 @@
     "link": "https://www.ieee.org"
   },
   {
+    "name": "ISCISC'2025",
+    "sub": "Computer networks - security",
+    "Location": "Tehran, Iran",
+    "Start Date": "",
+    "End Date": "Oct 09 2025",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 09 2025",
+    "Notification": "",
+    "link": "https://iscisc2025.sbu.ac.ir/fa"
+  },
+  {
     "name": "ISEC'26",
     "sub": "Communications",
     "Location": "Princeton, New Jersey, USA",
@@ -1133,17 +1078,6 @@
     "link": "https://iseep.unri.ac.id/"
   },
   {
-    "name": "ITIS 2025",
-    "sub": "Computer networks",
-    "Location": "Mataram, Indonesia",
-    "Start Date": "",
-    "End Date": "Oct 10 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 06 2025",
-    "Notification": "",
-    "link": "https://2025.itisconf.org/"
-  },
-  {
     "name": "ITNAC 2025",
     "sub": "Communication theory",
     "Location": "Christchurch, New Zealand",
@@ -1164,17 +1098,6 @@
     "Submission Deadline": "Sep 12 2025",
     "Notification": "",
     "link": "https://apmtt.org"
-  },
-  {
-    "name": "MFAIC 2025",
-    "sub": "Signal processing",
-    "Location": "Curtin University Malaysia, Malaysia",
-    "Start Date": "",
-    "End Date": "Nov 28 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 06 2025",
-    "Notification": "",
-    "link": "https://curtin.edu.my/event/mfaic-2025/"
   },
   {
     "name": "MNE3SD'25",
