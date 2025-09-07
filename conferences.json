@@ -39,8 +39,8 @@
     "Start Date": "",
     "End Date": "",
     "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
+    "Submission Deadline": "Sep 30 2025",
+    "Notification": "Oct 15 2025",
     "link": "https://www.hnicem.org/"
   },
   {
@@ -149,8 +149,8 @@
     "Start Date": "",
     "End Date": "",
     "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
+    "Submission Deadline": "Sep 19 2025",
+    "Notification": "Oct 20 2025",
     "link": "https://www.manuscriptlink.com/society/kiisc/conference/mobisec2025"
   },
   {
@@ -168,11 +168,11 @@
     "name": "ACM MobiSys",
     "sub": "Wireless & Communication",
     "Location": "Cambridge, UK",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
+    "Start Date": "Jun 21 2026",
+    "End Date": "Jun 25 2026",
+    "Abstract Deadline": "Nov 28 2025",
+    "Submission Deadline": "Dec 05 2025",
+    "Notification": "Mar 02 2026",
     "link": "https://www.sigmobile.org/mobisys/2026/"
   },
   {
