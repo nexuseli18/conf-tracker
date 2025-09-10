@@ -168,7 +168,7 @@
     "name": "ACM MobiSys",
     "sub": "Wireless & Communication",
     "Location": "Cambridge, UK",
-    "Start Date": "Jun 21 2026",
+    "Start Date": "",
     "End Date": "Jun 25 2026",
     "Abstract Deadline": "Nov 28 2025",
     "Submission Deadline": "Dec 05 2025",
@@ -286,17 +286,6 @@
     "link": "https://icmlcn2025.ieee-icmlcn.org/"
   },
   {
-    "name": "3rd ICoABCD 2025",
-    "sub": "Computer networks",
-    "Location": "Lombok, Indonesia",
-    "Start Date": "",
-    "End Date": "Dec 02 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 07 2025",
-    "Notification": "",
-    "link": "https://icoabcd.asasi.or.id/"
-  },
-  {
     "name": "5th ISMEE 2025",
     "sub": "Computer networks",
     "Location": "Bandung, Indonesia",
@@ -394,17 +383,6 @@
     "Submission Deadline": "Sep 20 2025",
     "Notification": "",
     "link": "http://www.ieee-camad.org/"
-  },
-  {
-    "name": "CIoT'25",
-    "sub": "Communications",
-    "Location": "London, United Kingdom (Great Britain)",
-    "Start Date": "",
-    "End Date": "Oct 31 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 08 2025",
-    "Notification": "",
-    "link": "https://ciot.dnac.org/"
   },
   {
     "name": "CISIS-2026",
@@ -517,17 +495,6 @@
     "link": "https://csnet-conference.org/2025/"
   },
   {
-    "name": "CTU-NA'25",
-    "sub": "Communications",
-    "Location": "Washington DC, District of Columbia (DC), USA",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 08 2025",
-    "Notification": "",
-    "link": "https://ctu.ieee.org/summit/2025-ctu-summit/2025-ctu-summit-na/"
-  },
-  {
     "name": "DATA'25",
     "sub": "Computer networks",
     "Location": "Sakhir, Bahrain",
@@ -570,17 +537,6 @@
     "Submission Deadline": "Oct 15 2025",
     "Notification": "",
     "link": "https://voyager.ce.fit.ac.jp/conf/eidwt/2026/"
-  },
-  {
-    "name": "ETECOM 2025",
-    "sub": "Computer networks",
-    "Location": "Riffa, Bahrain",
-    "Start Date": "",
-    "End Date": "Oct 30 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 07 2025",
-    "Notification": "",
-    "link": "https://www.ieee-etecom.org/"
   },
   {
     "name": "EUSAR 2026",
@@ -968,17 +924,6 @@
     "link": "https://icbc2026.ieee-icbc.org/"
   },
   {
-    "name": "IEEE UEMCON 2025",
-    "sub": "Mobile computing",
-    "Location": "Yorktown Heights, New York, USA",
-    "Start Date": "",
-    "End Date": "Oct 24 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 08 2025",
-    "Notification": "",
-    "link": "https://ieee-uemcon.org/"
-  },
-  {
     "name": "IEEE-ICCA 2025",
     "sub": "Computer networks",
     "Location": "Arab Open University - Kingdom of Bahrain, Bahrain",
@@ -1252,17 +1197,6 @@
     "Submission Deadline": "Sep 14 2025",
     "Notification": "",
     "link": "https://wcnc2026.ieee-wcnc.org"
-  },
-  {
-    "name": "WD'25",
-    "sub": "Computer networks",
-    "Location": "Niterói, Brazil",
-    "Start Date": "",
-    "End Date": "Dec 03 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 07 2025",
-    "Notification": "",
-    "link": "https://wireless-days.dnac.org/"
   },
   {
     "name": "WONS 2026",
