@@ -11,17 +11,6 @@
     "link": ""
   },
   {
-    "name": "ISEEE 2025",
-    "sub": "signal processing",
-    "Location": "Galați, Romania",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "Sep 10 2025",
-    "Submission Deadline": "Sep 10 2025",
-    "Notification": "",
-    "link": "https://www.iseee.ugal.ro/2025/index.php"
-  },
-  {
     "name": "ICACS’26",
     "sub": "privacy and security",
     "Location": "Lahore, Pakistan",
@@ -220,17 +209,6 @@
     "link": "https://dsn2026.github.io/"
   },
   {
-    "name": "18th IEEE MCSoC-2025",
-    "sub": "Communications",
-    "Location": "Singapore, Singapore",
-    "Start Date": "",
-    "End Date": "Dec 18 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 09 2025",
-    "Notification": "",
-    "link": "https://mcsoc-forum.org/"
-  },
-  {
     "name": "2025 5th ICSINTESA",
     "sub": "Computer networks",
     "Location": "Yogyakarta, Indonesia",
@@ -328,17 +306,6 @@
     "Submission Deadline": "Sep 15 2025",
     "Notification": "",
     "link": "https://www.apmc2025.org/"
-  },
-  {
-    "name": "APWiMob 2025",
-    "sub": "Communication theory",
-    "Location": "Bali, Indonesia",
-    "Start Date": "",
-    "End Date": "Nov 08 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 10 2025",
-    "Notification": "",
-    "link": "https://apwimobconf.org/"
   },
   {
     "name": "BIOXPLORE 2026",
@@ -484,28 +451,6 @@
     "link": "https://eng.ed.ac.uk/csndsp-2026"
   },
   {
-    "name": "CSNet'25",
-    "sub": "Communications",
-    "Location": "Abu Dhabi, United Arab Emirates",
-    "Start Date": "",
-    "End Date": "Oct 22 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 12 2025",
-    "Notification": "",
-    "link": "https://csnet-conference.org/2025/"
-  },
-  {
-    "name": "DATA'25",
-    "sub": "Computer networks",
-    "Location": "Sakhir, Bahrain",
-    "Start Date": "",
-    "End Date": "Nov 01 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 10 2025",
-    "Notification": "",
-    "link": "https://icdabi.uob.edu.bh/"
-  },
-  {
     "name": "DIGITA 2026",
     "sub": "Computer networks",
     "Location": "Pisa, Italy",
@@ -550,17 +495,6 @@
     "link": "http://www.eusar.de"
   },
   {
-    "name": "FNWF'25",
-    "sub": "Communication theory",
-    "Location": "Bangalore, India",
-    "Start Date": "",
-    "End Date": "Nov 12 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 10 2025",
-    "Notification": "",
-    "link": "https://fnwf.ieee.org/"
-  },
-  {
     "name": "GEn-CITy 2025",
     "sub": "Signal processing",
     "Location": "Bali, Indonesia",
@@ -570,17 +504,6 @@
     "Submission Deadline": "Sep 30 2025",
     "Notification": "",
     "link": "https://gencity.undiknas.ac.id"
-  },
-  {
-    "name": "GenAICIoT'25",
-    "sub": "Communications",
-    "Location": "Abu Dhabi, United Arab Emirates",
-    "Start Date": "",
-    "End Date": "Oct 22 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 12 2025",
-    "Notification": "",
-    "link": "https://csnet-conference.org/2025/genaiciot/"
   },
   {
     "name": "IBITeC 2025",
@@ -614,17 +537,6 @@
     "Submission Deadline": "Oct 01 2025",
     "Notification": "",
     "link": "https://icaiic.org/"
-  },
-  {
-    "name": "ICAITech 2025",
-    "sub": "Computer networks - sensor",
-    "Location": "virtual",
-    "Start Date": "",
-    "End Date": "Nov 21 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 11 2025",
-    "Notification": "",
-    "link": "https://icaitech.org/"
   },
   {
     "name": "ICCAIS-2025",
@@ -737,17 +649,6 @@
     "link": "https://www.icmmts.org/home"
   },
   {
-    "name": "ICNC'26",
-    "sub": "Communications",
-    "Location": "Maui, Hawaii, USA",
-    "Start Date": "",
-    "End Date": "Feb 19 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 12 2025",
-    "Notification": "",
-    "link": "http://www.conf-icnc.org/2026"
-  },
-  {
     "name": "ICOEINS 2026",
     "sub": "Computer networks",
     "Location": "Yogyakarta, Indonesia",
@@ -792,17 +693,6 @@
     "link": "https://conference.brin.go.id/icramet2025"
   },
   {
-    "name": "ICSigSys 2025",
-    "sub": "Wireless communications",
-    "Location": "Bali, Indonesia",
-    "Start Date": "",
-    "End Date": "Nov 08 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 11 2025",
-    "Notification": "",
-    "link": "http://icsigsys.info/"
-  },
-  {
     "name": "ICSOS2025",
     "sub": "Communications",
     "Location": "Kyoto, Japan",
@@ -812,17 +702,6 @@
     "Submission Deadline": "Oct 10 2025",
     "Notification": "",
     "link": "https://icsos2025.ieee-icsos.org/"
-  },
-  {
-    "name": "icsped-2026",
-    "sub": "Communication theory",
-    "Location": "Chandigarh, India",
-    "Start Date": "",
-    "End Date": "Jan 24 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 09 2025",
-    "Notification": "",
-    "link": "https://www.ccet.ac.in/ICSPED/"
   },
   {
     "name": "ICSPIS'2025",
@@ -968,17 +847,6 @@
     "link": "https://incode.sotvi.org"
   },
   {
-    "name": "IoTaIS 2025",
-    "sub": "Computer networks - sensor",
-    "Location": "Bali, Indonesia",
-    "Start Date": "",
-    "End Date": "Nov 08 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 10 2025",
-    "Notification": "",
-    "link": "http://iotais.org/"
-  },
-  {
     "name": "ISAC 2026",
     "sub": "Wireless communications",
     "Location": "Lisbon, Portugal",
@@ -988,17 +856,6 @@
     "Submission Deadline": "Jun 01 2026",
     "Notification": "",
     "link": "https://www.ieee.org"
-  },
-  {
-    "name": "ISCISC'2025",
-    "sub": "Computer networks - security",
-    "Location": "Tehran, Iran",
-    "Start Date": "",
-    "End Date": "Oct 09 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 09 2025",
-    "Notification": "",
-    "link": "https://iscisc2025.sbu.ac.ir/fa"
   },
   {
     "name": "ISEC'26",
@@ -1021,28 +878,6 @@
     "Submission Deadline": "Sep 14 2025",
     "Notification": "",
     "link": "https://iseep.unri.ac.id/"
-  },
-  {
-    "name": "ITNAC 2025",
-    "sub": "Communication theory",
-    "Location": "Christchurch, New Zealand",
-    "Start Date": "",
-    "End Date": "Nov 28 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 10 2025",
-    "Notification": "",
-    "link": "https://itnac.org.au/"
-  },
-  {
-    "name": "IWSA 2025",
-    "sub": "Communications",
-    "Location": "Nanjing, China",
-    "Start Date": "",
-    "End Date": "Oct 12 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Sep 12 2025",
-    "Notification": "",
-    "link": "https://apmtt.org"
   },
   {
     "name": "MNE3SD'25",
