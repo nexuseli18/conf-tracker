@@ -88,17 +88,6 @@
     "link": "https://lacap2026.org/"
   },
   {
-    "name": "SME NAMRC 54",
-    "sub": "cyber physical systems",
-    "Location": "State College, PA, United States",
-    "Start Date": "Jun 14 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
-    "link": "https://namrc.sme.org/"
-  },
-  {
     "name": "SATNAC 2025",
     "sub": "communication",
     "Location": "Hermanus, Western Cape, South Africa",
@@ -164,15 +153,15 @@
     "Notification": "",
     "link": "https://www.icsip.org/"
   },
-  {
+{
     "name": "ACM MobiSys",
     "sub": "Wireless & Communication",
     "Location": "Cambridge, UK",
     "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "",
-    "Notification": "",
+    "End Date": "Jun 25 2026",
+    "Abstract Deadline": "Nov 28 2025",
+    "Submission Deadline": "Dec 05 2025",
+    "Notification": "Mar 02 2026",
     "link": "https://www.sigmobile.org/mobisys/2026/"
   },
   {
