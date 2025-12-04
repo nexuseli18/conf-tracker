@@ -143,28 +143,6 @@
     "link": "https://eng.ed.ac.uk/csndsp-2026"
   },
   {
-    "name": "EDUSAFE-2025",
-    "sub": "Communications",
-    "Location": "virtual",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 01 2025",
-    "Notification": "",
-    "link": "https://edusafe.umy.ac.id"
-  },
-  {
-    "name": "ICCSPA'26",
-    "sub": "Computer networks",
-    "Location": "Alcalá de Henares, Spain",
-    "Start Date": "",
-    "End Date": "Jun 18 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 02 2025",
-    "Notification": "",
-    "link": "https://2026.iccspa.org/"
-  },
-  {
     "name": "ICOEINS 2026",
     "sub": "Computer networks",
     "Location": "Yogyakarta, Indonesia",
@@ -319,28 +297,6 @@
     "link": "http://ccncps.net/"
   },
   {
-    "name": "COMSNETS 2026 - ADVnet Workshop",
-    "sub": "Computer networks - applications",
-    "Location": "Bangalore, India",
-    "Start Date": "Jan 10 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 27 2025",
-    "Notification": "",
-    "link": "https://www.comsnets.org/ADVnet.html"
-  },
-  {
-    "name": "COMSNETS 2026 - MINDS Workshop",
-    "sub": "Computer networks",
-    "Location": "Bangalore, India",
-    "Start Date": "Jan 06 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 27 2025",
-    "Notification": "",
-    "link": "https://www.comsnets.org/minds_workshop.html"
-  },
-  {
     "name": "EECCIS 2026",
     "sub": "Communications",
     "Location": "Malang, East Java, Indonesia, Indonesia",
@@ -385,17 +341,6 @@
     "link": "http://smartnets.ieee.tn/"
   },
   {
-    "name": "IEEE HPSR 2026",
-    "sub": "Computer networks",
-    "Location": "Montreal, Quebec, Canada",
-    "Start Date": "Jun 17 2026",
-    "End Date": "Jun 19 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 30 2025",
-    "Notification": "",
-    "link": "https://hpsr2026.ieee-hpsr.org/"
-  },
-  {
     "name": "UNet'26",
     "sub": "Computer networks",
     "Location": "Montreal, Quebec, Canada",
@@ -438,17 +383,6 @@
     "Submission Deadline": "Apr 01 2026",
     "Notification": "",
     "link": "https://ieeeieacon.org"
-  },
-  {
-    "name": "WoWMoM-2026",
-    "sub": "Computer networks",
-    "Location": "Bologna, Italy",
-    "Start Date": "Jun 16 2026",
-    "End Date": "Jun 19 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 28 2025",
-    "Notification": "",
-    "link": "https://www.cs.unibo.it/wowmom2026/"
   },
   {
     "name": "SIML 2026",
@@ -869,17 +803,6 @@
     "link": "https://en.g6gconference.com/"
   },
   {
-    "name": "ICAIIC 2026",
-    "sub": "Communication theory",
-    "Location": "Tokyo, Japan",
-    "Start Date": "Feb 24 2026",
-    "End Date": "Mar 01 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 01 2025",
-    "Notification": "",
-    "link": "https://icaiic.org/"
-  },
-  {
     "name": "ICICyTA 2026",
     "sub": "Computer networks",
     "Location": "Bali, Indonesia",
@@ -889,17 +812,6 @@
     "Submission Deadline": "Aug 10 2026",
     "Notification": "",
     "link": "https://icicyta.telkomuniversity.ac.id/2026/"
-  },
-  {
-    "name": "IEEE ANTS 2025",
-    "sub": "Communication theory",
-    "Location": "Delhi, India",
-    "Start Date": "Dec 15 2025",
-    "End Date": "Dec 18 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 01 2025",
-    "Notification": "",
-    "link": "https://ieee-ants.org/"
   },
   {
     "name": "IEEE PIMRC 2026",
@@ -1012,17 +924,6 @@
     "link": "https://mcsoc-forum.org/"
   },
   {
-    "name": "2026 ICMLCN",
-    "sub": "Wireless communications",
-    "Location": "Abu Dhabi, United Arab Emirates",
-    "Start Date": "Mar 30 2026",
-    "End Date": "Apr 03 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 30 2025",
-    "Notification": "",
-    "link": "https://icmlcn2025.ieee-icmlcn.org/"
-  },
-  {
     "name": "CCCI 2026",
     "sub": "Communications",
     "Location": "Hangzhou, China",
@@ -1034,17 +935,6 @@
     "link": "https://ccci.udg.edu/"
   },
   {
-    "name": "COMSNETS 2026 Demos and Exhibits",
-    "sub": "Communications",
-    "Location": "Bangalore, India",
-    "Start Date": "Jan 06 2026",
-    "End Date": "Jan 12 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 28 2025",
-    "Notification": "",
-    "link": "http://www.comsnets.org/index.html"
-  },
-  {
     "name": "CyMaEn'26",
     "sub": "Computer networks",
     "Location": "Tlemcen, Algeria",
@@ -1054,17 +944,6 @@
     "Submission Deadline": "Jan 15 2026",
     "Notification": "",
     "link": "https://cymaen.org/"
-  },
-  {
-    "name": "FINEX 2025",
-    "sub": "Communications",
-    "Location": "virtual",
-    "Start Date": "Dec 11 2025",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 01 2025",
-    "Notification": "",
-    "link": "https://finex.umy.ac.id/"
   },
   {
     "name": "IEC'26",
@@ -1120,17 +999,6 @@
     "Submission Deadline": "Jan 09 2026",
     "Notification": "",
     "link": "https://ondm2026.de/"
-  },
-  {
-    "name": "SMIRC'2025",
-    "sub": "Signal processing",
-    "Location": "Dubai, United Arab Emirates",
-    "Start Date": "Nov 29 2025",
-    "End Date": "Dec 01 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 27 2025",
-    "Notification": "",
-    "link": "http://ud.ac.ae/"
   },
   {
     "name": "WInnAI'26",
@@ -1221,17 +1089,6 @@
     "link": "https://www.cicet.org/"
   },
   {
-    "name": "WEB&GRAPH 2026",
-    "sub": "social networks",
-    "Location": "Boise, Idaho, ID, United States",
-    "Start Date": "",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 27 2025",
-    "Notification": "",
-    "link": "https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html"
-  },
-  {
     "name": "2026 1st ISIBER",
     "sub": "Computer networks",
     "Location": "Jakarta, Indonesia",
@@ -1254,72 +1111,6 @@
     "link": "http://voyager.ce.fit.ac.jp/conf/aina/2026/"
   },
   {
-    "name": "ASA 26",
-    "sub": "Wireless communications",
-    "Location": "Adelaide SA, Australia",
-    "Start Date": "Feb 11 2026",
-    "End Date": "Feb 15 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 27 2025",
-    "Notification": "",
-    "link": "https://www.asasymp.org/"
-  },
-  {
-    "name": "CITS 2026",
-    "sub": "Communications",
-    "Location": "Athens, Greece",
-    "Start Date": "Jul 15 2026",
-    "End Date": "Jul 19 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 27 2025",
-    "Notification": "",
-    "link": "https://cits.udg.edu/"
-  },
-  {
-    "name": "COMSNETS 2026 - Decarbx Workshop",
-    "sub": "Communications",
-    "Location": "Bangalore, India",
-    "Start Date": "Jan 10 2026",
-    "End Date": "",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 30 2025",
-    "Notification": "",
-    "link": "https://www.comsnets.org/Decarbx.html"
-  },
-  {
-    "name": "DigiCon-25",
-    "sub": "Wireless communications",
-    "Location": "Jeju, Korea (South)",
-    "Start Date": "Dec 15 2025",
-    "End Date": "Dec 19 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 28 2025",
-    "Notification": "",
-    "link": "http://www.dcon.kr"
-  },
-  {
-    "name": "DIGITA 2026",
-    "sub": "Computer networks",
-    "Location": "Pisa, Italy",
-    "Start Date": "Mar 16 2026",
-    "End Date": "Mar 20 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 01 2025",
-    "Notification": "",
-    "link": "https://digita-percom.github.io/2026/"
-  },
-  {
-    "name": "EIDWT-2026",
-    "sub": "Computer networks - applications",
-    "Location": "Chania, Crete, Greece",
-    "Start Date": "Feb 25 2026",
-    "End Date": "Feb 27 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 30 2025",
-    "Notification": "",
-    "link": "https://voyager.ce.fit.ac.jp/conf/eidwt/2026/"
-  },
-  {
     "name": "ICBIR2026",
     "sub": "Communications",
     "Location": "Suanluang, Thailand",
@@ -1331,17 +1122,6 @@
     "link": "https://icbir.tni.ac.th/"
   },
   {
-    "name": "ICCSP 2026",
-    "sub": "Computer networks",
-    "Location": "Melmaruvathur, India",
-    "Start Date": "Apr 22 2026",
-    "End Date": "Apr 24 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 30 2025",
-    "Notification": "",
-    "link": "https://iccsp.apec.edu.in/"
-  },
-  {
     "name": "ICCT-Pacific 2026",
     "sub": "Communications",
     "Location": "Yoshida, Yamaguchi, Japan, 〒 , Japan",
@@ -1351,28 +1131,6 @@
     "Submission Deadline": "Dec 07 2025",
     "Notification": "",
     "link": "https://2025.icct-pacific.org/"
-  },
-  {
-    "name": "ICEIC 2026",
-    "sub": "Communications",
-    "Location": "Macau, China",
-    "Start Date": "Jan 18 2026",
-    "End Date": "Jan 21 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 30 2025",
-    "Notification": "",
-    "link": "http://iceic.org/"
-  },
-  {
-    "name": "ICNC'26 Invited",
-    "sub": "Communications",
-    "Location": "Maui, HI , USA",
-    "Start Date": "Feb 15 2026",
-    "End Date": "Feb 19 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 28 2025",
-    "Notification": "",
-    "link": "http://www.conf-icnc.org/2026"
   },
   {
     "name": "ICT 2026",
@@ -1419,28 +1177,6 @@
     "link": "https://infocom2026.ieee-infocom.org/"
   },
   {
-    "name": "ISITIA 2026",
-    "sub": "Computer networks",
-    "Location": "Denpasar, Indonesia",
-    "Start Date": "Jul 15 2026",
-    "End Date": "Jul 17 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 27 2025",
-    "Notification": "",
-    "link": "https://isitia.its.ac.id/"
-  },
-  {
-    "name": "IWSA 2025",
-    "sub": "Communications",
-    "Location": "Nanjing, China",
-    "Start Date": "Dec 05 2025",
-    "End Date": "Dec 07 2025",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 28 2025",
-    "Notification": "",
-    "link": "https://apmtt.org"
-  },
-  {
     "name": "LANMAN 2026",
     "sub": "Computer networks",
     "Location": "Tempe, Arizona, AZ , USA",
@@ -1450,17 +1186,6 @@
     "Submission Deadline": "Mar 15 2026",
     "Notification": "",
     "link": "https://lanman2026.ieee-lanman.org/"
-  },
-  {
-    "name": "NCC 2026",
-    "sub": "Communication theory",
-    "Location": "Hyderabad, India",
-    "Start Date": "Feb 26 2026",
-    "End Date": "Mar 02 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 28 2025",
-    "Notification": "",
-    "link": "https://ee.iith.ac.in/NCC2026/"
   },
   {
     "name": "NetSoft 2026",
@@ -1485,83 +1210,6 @@
     "link": "https://odishaaisummit.org/symposium"
   },
   {
-    "name": "PerconAI 2026",
-    "sub": "Mobile computing",
-    "Location": "Pisa, Italy",
-    "Start Date": "Mar 16 2026",
-    "End Date": "Mar 20 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 01 2025",
-    "Notification": "",
-    "link": "https://perconai.iit.cnr.it"
-  },
-  {
-    "name": "PerRad 2026",
-    "sub": "Communications",
-    "Location": "Pisa, Italy",
-    "Start Date": "Mar 16 2026",
-    "End Date": "Mar 20 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 02 2025",
-    "Notification": "",
-    "link": "https://perradar.github.io/"
-  },
-  {
-    "name": "SayGreeN 2026",
-    "sub": "Communications",
-    "Location": "Pisa, Italy",
-    "Start Date": "Mar 16 2026",
-    "End Date": "Mar 20 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 01 2025",
-    "Notification": "",
-    "link": "https://saygreen2026.polito.it"
-  },
-  {
-    "name": "SMIRC'2026",
-    "sub": "Signal processing",
-    "Location": "Dubai, United Arab Emirates",
-    "Start Date": "Jun 05 2026",
-    "End Date": "Jun 06 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 27 2025",
-    "Notification": "",
-    "link": "https://ud-ceit.github.io/SMIRC/"
-  },
-  {
-    "name": "URBSENSE 2026",
-    "sub": "Computer networks",
-    "Location": "Pisa, Italy",
-    "Start Date": "Mar 16 2026",
-    "End Date": "Mar 20 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 01 2025",
-    "Notification": "",
-    "link": "https://www.urbsense.org/"
-  },
-  {
-    "name": "WAMICON 2026",
-    "sub": "Wireless communications",
-    "Location": "Clearwater, FL , USA",
-    "Start Date": "Apr 19 2026",
-    "End Date": "Apr 21 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Nov 27 2025",
-    "Notification": "",
-    "link": "https://www.ieeewamicon.org/"
-  },
-  {
-    "name": "WCNCW 2026",
-    "sub": "Communications",
-    "Location": "KUALA LUMPUR, Malaysia",
-    "Start Date": "Apr 13 2026",
-    "End Date": "Apr 17 2026",
-    "Abstract Deadline": "",
-    "Submission Deadline": "Dec 01 2025",
-    "Notification": "",
-    "link": "https://wcnc2026.ieee-wcnc.org"
-  },
-  {
     "name": "WCNCW 2026 - WS17",
     "sub": "Communications",
     "Location": "KUALA LUMPUR, Malaysia",
@@ -1582,5 +1230,423 @@
     "Submission Deadline": "Dec 25 2025",
     "Notification": "",
     "link": "https://radiantyouthnetwork.pk/"
+  },
+  {
+    "name": "MECO 2026",
+    "sub": "cyber physical systems",
+    "Location": "Budva, Montenegro",
+    "Start Date": "Jun 09 2026",
+    "End Date": "",
+    "Abstract Deadline": "Mar 31 2026",
+    "Submission Deadline": "Mar 31 2026",
+    "Notification": "",
+    "link": "http://www.mecoconference.me/"
+  },
+  {
+    "name": "MCNA2026",
+    "sub": "networking",
+    "Location": "San Antonio, TX, United States",
+    "Start Date": "May 12 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 20 2025",
+    "Notification": "",
+    "link": "https://mcna-conference.org/2026/"
+  },
+  {
+    "name": "CCET 2026",
+    "sub": "wireless communications",
+    "Location": "Taiyuan, China",
+    "Start Date": "Aug 14 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 25 2026",
+    "Notification": "",
+    "link": "https://www.ccet.org/"
+  },
+  {
+    "name": "APARM 2026",
+    "sub": "communication systems",
+    "Location": "Singapore, Singapore",
+    "Start Date": "Jul 01 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 31 2026",
+    "Notification": "",
+    "link": "https://www.aparm2026.com/"
+  },
+  {
+    "name": "IWAC2026",
+    "sub": "communication / navigation / surveillance",
+    "Location": "Tokyo, Japan",
+    "Start Date": "Nov 17 2026",
+    "End Date": "",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 24 2026",
+    "Notification": "",
+    "link": "https://www.enri.go.jp/en/int_workshop/iwac2026.html"
+  },
+  {
+    "name": "2026 ICMLCN",
+    "sub": "Wireless communications",
+    "Location": "Abu Dhabi, United Arab Emirates",
+    "Start Date": "Mar 30 2026",
+    "End Date": "Apr 03 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 06 2025",
+    "Notification": "",
+    "link": "https://icmlcn2025.ieee-icmlcn.org/"
+  },
+  {
+    "name": "ASA 26",
+    "sub": "Wireless communications",
+    "Location": "Adelaide SA, Australia",
+    "Start Date": "Feb 11 2026",
+    "End Date": "Feb 15 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 04 2025",
+    "Notification": "",
+    "link": "https://www.asasymp.org/"
+  },
+  {
+    "name": "CITS 2026",
+    "sub": "Communications",
+    "Location": "Athens, Greece",
+    "Start Date": "Jul 15 2026",
+    "End Date": "Jul 19 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 04 2025",
+    "Notification": "",
+    "link": "https://cits.udg.edu/"
+  },
+  {
+    "name": "CWIT 2026",
+    "sub": "Communication theory",
+    "Location": "Halifax, NS , Canada",
+    "Start Date": "Jun 07 2026",
+    "End Date": "Jun 10 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 03 2026",
+    "Notification": "",
+    "link": "http://cwit.ca/2026/"
+  },
+  {
+    "name": "DigiCon-25",
+    "sub": "Wireless communications",
+    "Location": "Jeju, Korea (South)",
+    "Start Date": "Dec 15 2025",
+    "End Date": "Dec 17 2025",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 04 2025",
+    "Notification": "",
+    "link": "http://www.dcon.kr"
+  },
+  {
+    "name": "DIGITA 2026",
+    "sub": "Computer networks",
+    "Location": "Pisa, Italy",
+    "Start Date": "Mar 16 2026",
+    "End Date": "Mar 20 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 08 2025",
+    "Notification": "",
+    "link": "https://digita-percom.github.io/2026/"
+  },
+  {
+    "name": "ECTI-DAMT-NCON-26",
+    "sub": "Communications",
+    "Location": "Chiang Mai, Thailand",
+    "Start Date": "Feb 04 2026",
+    "End Date": "Feb 07 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 02 2026",
+    "Notification": "",
+    "link": "https://ectidamtncon2026.payap.ac.th/"
+  },
+  {
+    "name": "ICAIIC 2026",
+    "sub": "Communication theory",
+    "Location": "Tokyo, 〒 , Japan",
+    "Start Date": "Feb 24 2026",
+    "End Date": "Mar 01 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 12 2025",
+    "Notification": "",
+    "link": "https://icaiic.org/"
+  },
+  {
+    "name": "ICCEREC 2026",
+    "sub": "Communications",
+    "Location": "Yogyakarta, Indonesia",
+    "Start Date": "Oct 20 2026",
+    "End Date": "Oct 23 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 20 2026",
+    "Notification": "",
+    "link": "https://iccerec.com/"
+  },
+  {
+    "name": "ICCSP 2026",
+    "sub": "Computer networks",
+    "Location": "Melmaruvathur, India",
+    "Start Date": "Apr 22 2026",
+    "End Date": "Apr 24 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 15 2025",
+    "Notification": "",
+    "link": "https://iccsp.apec.edu.in/"
+  },
+  {
+    "name": "ICCSPA'26",
+    "sub": "Computer networks",
+    "Location": "Alcala, Spain",
+    "Start Date": "Jun 15 2026",
+    "End Date": "Jun 18 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 22 2025",
+    "Notification": "",
+    "link": "https://2026.iccspa.org/"
+  },
+  {
+    "name": "ICDSG 2026",
+    "sub": "Signal processing",
+    "Location": "Denpasar, Bali, Indonesia",
+    "Start Date": "Nov 25 2026",
+    "End Date": "Nov 27 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Sep 05 2026",
+    "Notification": "",
+    "link": "https://icdsg.org/2026/"
+  },
+  {
+    "name": "ICEIC 2026",
+    "sub": "Communications",
+    "Location": "Macau, China",
+    "Start Date": "Jan 18 2026",
+    "End Date": "Jan 21 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 10 2025",
+    "Notification": "",
+    "link": "http://iceic.org/"
+  },
+  {
+    "name": "ICETCI 2026",
+    "sub": "Wireless communications",
+    "Location": "Hyderabad, Telangāna, India",
+    "Start Date": "Aug 20 2026",
+    "End Date": "Aug 22 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 20 2026",
+    "Notification": "",
+    "link": "http://www.ietcint.com"
+  },
+  {
+    "name": "ICM²TS 2026",
+    "sub": "Communication theory",
+    "Location": "Kruger National Park, South Africa",
+    "Start Date": "Jul 19 2026",
+    "End Date": "Jul 22 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 19 2025",
+    "Notification": "",
+    "link": "https://www.icmmts.org/home"
+  },
+  {
+    "name": "ICNC'26",
+    "sub": "Communications",
+    "Location": "Maui, HI , USA",
+    "Start Date": "Feb 15 2026",
+    "End Date": "Feb 19 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 04 2025",
+    "Notification": "",
+    "link": "http://www.conf-icnc.org/2026"
+  },
+  {
+    "name": "ICP2026",
+    "sub": "Computer networks - optical",
+    "Location": "Johor Bharu, Malaysia",
+    "Start Date": "Aug 25 2026",
+    "End Date": "Aug 27 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Feb 25 2026",
+    "Notification": "",
+    "link": "http://icp2026.photonicssociety.org.my/"
+  },
+  {
+    "name": "IEEE ANTS 2025",
+    "sub": "Communication theory",
+    "Location": "Delhi, India",
+    "Start Date": "Dec 15 2025",
+    "End Date": "Dec 18 2025",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 14 2025",
+    "Notification": "",
+    "link": "https://ieee-ants.org/"
+  },
+  {
+    "name": "IEEE DySPAN 2026",
+    "sub": "Communications",
+    "Location": "Washington, DC , USA",
+    "Start Date": "May 11 2026",
+    "End Date": "May 14 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 15 2025",
+    "Notification": "",
+    "link": "https://dyspan2026.ieee-dyspan.org/"
+  },
+  {
+    "name": "IEEE HPSR 2026",
+    "sub": "Computer networks",
+    "Location": "Montreal, QC , Canada",
+    "Start Date": "Jun 17 2026",
+    "End Date": "Jun 19 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 19 2025",
+    "Notification": "",
+    "link": "https://hpsr2026.ieee-hpsr.org/"
+  },
+  {
+    "name": "IEEE MNC 2026",
+    "sub": "Computer networks - sensor",
+    "Location": "Naples, Italy",
+    "Start Date": "Jul 13 2026",
+    "End Date": "Jul 16 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 06 2026",
+    "Notification": "",
+    "link": "https://mnc2026.ieee-ims.org/"
+  },
+  {
+    "name": "IETBHEC'26",
+    "sub": "Communication theory",
+    "Location": "Singapore, Singapore",
+    "Start Date": "Jun 28 2026",
+    "End Date": "Jun 30 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 24 2025",
+    "Notification": "",
+    "link": "https://ietbhec.com"
+  },
+  {
+    "name": "IMNS'26",
+    "sub": "Communications",
+    "Location": "Atlanta, GA , USA",
+    "Start Date": "May 18 2026",
+    "End Date": "May 20 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Mar 15 2026",
+    "Notification": "",
+    "link": "https://conf-imns.org/"
+  },
+  {
+    "name": "INFOCOM 6G AI-RAN'26",
+    "sub": "Computer networks",
+    "Location": "Tokyo, 〒 , Japan",
+    "Start Date": "May 18 2026",
+    "End Date": "May 21 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 29 2025",
+    "Notification": "",
+    "link": "https://infocom2025.ieee-infocom.org/"
+  },
+  {
+    "name": "ISITIA 2026",
+    "sub": "Computer networks",
+    "Location": "Denpasar, Indonesia",
+    "Start Date": "Jul 15 2026",
+    "End Date": "Jul 17 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 04 2025",
+    "Notification": "",
+    "link": "https://isitia.its.ac.id/"
+  },
+  {
+    "name": "ISNCC-2026",
+    "sub": "Wireless communications",
+    "Location": "Bristol, United Kingdom (Great Britain)",
+    "Start Date": "Sep 08 2026",
+    "End Date": "Sep 10 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Apr 12 2026",
+    "Notification": "",
+    "link": "http://www.isncc-conf.org"
+  },
+  {
+    "name": "ISWCS 2026",
+    "sub": "Communication theory",
+    "Location": "Gold Coast QLD, Australia",
+    "Start Date": "Aug 24 2026",
+    "End Date": "Aug 26 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "May 15 2026",
+    "Notification": "",
+    "link": "http://iswcs.org/iswcs2026/"
+  },
+  {
+    "name": "PerRad 2026",
+    "sub": "Communications",
+    "Location": "Pisa, Italy",
+    "Start Date": "Mar 16 2026",
+    "End Date": "Mar 20 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 07 2025",
+    "Notification": "",
+    "link": "https://perradar.github.io/"
+  },
+  {
+    "name": "SPACE 2026",
+    "sub": "Signal processing",
+    "Location": "Bangalore, India",
+    "Start Date": "Jul 19 2026",
+    "End Date": "Jul 21 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Jan 31 2026",
+    "Notification": "",
+    "link": "https://www.ieeespace.org/"
+  },
+  {
+    "name": "URBSENSE 2026",
+    "sub": "Computer networks",
+    "Location": "Pisa, Italy",
+    "Start Date": "Mar 16 2026",
+    "End Date": "Mar 20 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 07 2025",
+    "Notification": "",
+    "link": "https://www.urbsense.org/"
+  },
+  {
+    "name": "WAMICON 2026",
+    "sub": "Wireless communications",
+    "Location": "Clearwater, FL , USA",
+    "Start Date": "Apr 19 2026",
+    "End Date": "Apr 21 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 04 2025",
+    "Notification": "",
+    "link": "https://www.ieeewamicon.org/"
+  },
+  {
+    "name": "WCNCW 2026",
+    "sub": "Communications",
+    "Location": "KUALA LUMPUR, Malaysia",
+    "Start Date": "Apr 13 2026",
+    "End Date": "Apr 17 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 14 2025",
+    "Notification": "",
+    "link": "https://wcnc2026.ieee-wcnc.org"
+  },
+  {
+    "name": "WoWMoM-2026",
+    "sub": "Computer networks",
+    "Location": "Bologna, Italy",
+    "Start Date": "Jun 16 2026",
+    "End Date": "Jun 19 2026",
+    "Abstract Deadline": "",
+    "Submission Deadline": "Dec 05 2025",
+    "Notification": "",
+    "link": "https://www.cs.unibo.it/wowmom2026/"
   }
 ]
